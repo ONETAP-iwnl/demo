@@ -26,14 +26,14 @@ namespace Demoe
         {
             InitializeComponent();
             db = DemoExdDEntities.GetContext();
-            //AuthorizWindow = new AuthorizWindow();
             ProductDG.ItemsSource = db.Product.ToList();
         }
 
         private void Logout_Click(object sender, RoutedEventArgs e)
         {
             this.Close();
-            //AuthorizWindow.Show();
+            AuthorizWindow = new AuthorizWindow();
+            AuthorizWindow.Show();
         }
 
         private void ShowHideDetails(object sender, RoutedEventArgs e)
@@ -46,6 +46,24 @@ namespace Demoe
                 updateWindow.ShowDialog();
                 ProductDG.ItemsSource = DemoExdDEntities.GetContext().Product.ToList();
             }
+        }
+
+        private void ProductDG_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+
+            if (ProductDG.SelectedItem is Product selectedProduct)
+            {
+                UpdateProductWindow updateWindow = new UpdateProductWindow(selectedProduct, db);
+                updateWindow.ShowDialog();
+                ProductDG.ItemsSource = db.Product.ToList();
+            }
+        }
+
+        private void AddProduct_Click(object sender, RoutedEventArgs e)
+        {
+            AddProductWindow addProductWindow = new AddProductWindow();
+            addProductWindow.ShowDialog();
+            ProductDG.ItemsSource = db.Product.ToList();
         }
     }
 }

@@ -27,8 +27,8 @@ namespace Demoe
         public AuthorizWindow()
         {
             InitializeComponent();
-            db = new DemoExdDEntities();
 
+            db = new DemoExdDEntities();
             mw = new MainWindow();
             ManagerWindow = new ManagerWindow();
         }

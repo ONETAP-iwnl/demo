@@ -1,42 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\romka\\Desktop\\emae\\Demoe\\",
+  "WorkspaceRootPath": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|c:\\users\\romka\\desktop\\emae\\demoe\\demoe\\updateproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|solutionrelative:demoe\\updateproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|C:\\Users\\romka\\Desktop\\emae\\Demoe\\demoe\\managerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\demoe\\managerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|solutionrelative:demoe\\managerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|C:\\Users\\romka\\Desktop\\emae\\Demoe\\demoe\\updateproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|solutionrelative:demoe\\updateproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|C:\\Users\\romka\\Desktop\\emae\\Demoe\\demoe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|solutionrelative:demoe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|C:\\Users\\romka\\Desktop\\emae\\Demoe\\demoe\\managerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|solutionrelative:demoe\\managerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|C:\\Users\\romka\\Desktop\\emae\\Demoe\\demoe\\authorizwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|c:\\users\\romka\\source\\repos\\onetap-iwnl\\demo\\demoe\\demoe\\authorizwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|solutionrelative:demoe\\authorizwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|C:\\Users\\romka\\Desktop\\emae\\Demoe\\demoe\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|solutionrelative:demoe\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|C:\\Users\\romka\\Desktop\\emae\\Demoe\\demoe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\demoe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|solutionrelative:demoe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|C:\\Users\\romka\\Desktop\\emae\\Demoe\\demoe\\authorizwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\demoe\\managerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|solutionrelative:demoe\\managerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|c:\\users\\romka\\source\\repos\\onetap-iwnl\\demo\\demoe\\demoe\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|solutionrelative:demoe\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|c:\\users\\romka\\source\\repos\\onetap-iwnl\\demo\\demoe\\demoe\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|solutionrelative:demoe\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|c:\\users\\romka\\source\\repos\\onetap-iwnl\\demo\\demoe\\demoe\\authorizwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|solutionrelative:demoe\\authorizwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\demoe\\updateproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|solutionrelative:demoe\\updateproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|c:\\users\\romka\\source\\repos\\onetap-iwnl\\demo\\demoe\\demoe\\updateproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|solutionrelative:demoe\\updateproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|c:\\users\\romka\\source\\repos\\onetap-iwnl\\demo\\demoe\\demoe\\addproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|solutionrelative:demoe\\addproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|c:\\users\\romka\\source\\repos\\onetap-iwnl\\demo\\demoe\\demoe\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|solutionrelative:demoe\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\demoe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD9C689-F933-47D7-97DA-4DAE6F9A7AE9}|Demoe\\Demoe.csproj|solutionrelative:demoe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,107 +94,153 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Demoe\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\App.xaml.cs",
+              "RelativeToolTip": "Demoe\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:54:43.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorizWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\AuthorizWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Demoe\\AuthorizWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\AuthorizWindow.xaml.cs",
+              "RelativeToolTip": "Demoe\\AuthorizWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAawCAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:54:14.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorizWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\AuthorizWindow.xaml",
+              "RelativeDocumentMoniker": "Demoe\\AuthorizWindow.xaml",
+              "ToolTip": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\AuthorizWindow.xaml",
+              "RelativeToolTip": "Demoe\\AuthorizWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T18:53:40.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\App.xaml",
+              "RelativeDocumentMoniker": "Demoe\\App.xaml",
+              "ToolTip": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\App.xaml",
+              "RelativeToolTip": "Demoe\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T18:53:26.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\AddProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Demoe\\AddProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\AddProductWindow.xaml.cs",
+              "RelativeToolTip": "Demoe\\AddProductWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAASwBoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:04:12.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddProductWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\AddProductWindow.xaml",
+              "RelativeDocumentMoniker": "Demoe\\AddProductWindow.xaml",
+              "ToolTip": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\AddProductWindow.xaml",
+              "RelativeToolTip": "Demoe\\AddProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T18:03:56.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "UpdateProductWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\romka\\Desktop\\emae\\Demoe\\Demoe\\UpdateProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\UpdateProductWindow.xaml.cs",
               "RelativeDocumentMoniker": "Demoe\\UpdateProductWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\romka\\Desktop\\emae\\Demoe\\Demoe\\UpdateProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\UpdateProductWindow.xaml.cs",
               "RelativeToolTip": "Demoe\\UpdateProductWindow.xaml.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCMAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T19:55:14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "UpdateProductWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\romka\\Desktop\\emae\\Demoe\\Demoe\\UpdateProductWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\UpdateProductWindow.xaml",
               "RelativeDocumentMoniker": "Demoe\\UpdateProductWindow.xaml",
-              "ToolTip": "C:\\Users\\romka\\Desktop\\emae\\Demoe\\Demoe\\UpdateProductWindow.xaml",
+              "ToolTip": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\UpdateProductWindow.xaml",
               "RelativeToolTip": "Demoe\\UpdateProductWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-01T19:51:13.093Z"
+              "WhenOpened": "2025-06-01T19:51:13.093Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\romka\\Desktop\\emae\\Demoe\\Demoe\\App.xaml",
-              "RelativeDocumentMoniker": "Demoe\\App.xaml",
-              "ToolTip": "C:\\Users\\romka\\Desktop\\emae\\Demoe\\Demoe\\App.xaml",
-              "RelativeToolTip": "Demoe\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-01T19:44:02.528Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ManagerWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\romka\\Desktop\\emae\\Demoe\\Demoe\\ManagerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\ManagerWindow.xaml.cs",
               "RelativeDocumentMoniker": "Demoe\\ManagerWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\romka\\Desktop\\emae\\Demoe\\Demoe\\ManagerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\ManagerWindow.xaml.cs",
               "RelativeToolTip": "Demoe\\ManagerWindow.xaml.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAuwCwAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T19:31:12.744Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ManagerWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\romka\\Desktop\\emae\\Demoe\\Demoe\\ManagerWindow.xaml",
-              "RelativeDocumentMoniker": "Demoe\\ManagerWindow.xaml",
-              "ToolTip": "C:\\Users\\romka\\Desktop\\emae\\Demoe\\Demoe\\ManagerWindow.xaml",
-              "RelativeToolTip": "Demoe\\ManagerWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-01T19:13:10.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthorizWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\romka\\Desktop\\emae\\Demoe\\Demoe\\AuthorizWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Demoe\\AuthorizWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\romka\\Desktop\\emae\\Demoe\\Demoe\\AuthorizWindow.xaml.cs",
-              "RelativeToolTip": "Demoe\\AuthorizWindow.xaml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAADwvxwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T19:10:24.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthorizWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\romka\\Desktop\\emae\\Demoe\\Demoe\\AuthorizWindow.xaml",
-              "RelativeDocumentMoniker": "Demoe\\AuthorizWindow.xaml",
-              "ToolTip": "C:\\Users\\romka\\Desktop\\emae\\Demoe\\Demoe\\AuthorizWindow.xaml",
-              "RelativeToolTip": "Demoe\\AuthorizWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-01T19:09:41.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\romka\\Desktop\\emae\\Demoe\\Demoe\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Demoe\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\romka\\Desktop\\emae\\Demoe\\Demoe\\MainWindow.xaml",
-              "RelativeToolTip": "Demoe\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-01T19:05:42.739Z"
+              "WhenOpened": "2025-06-01T19:31:12.744Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ManagerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\ManagerWindow.xaml",
+              "RelativeDocumentMoniker": "Demoe\\ManagerWindow.xaml",
+              "ToolTip": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\ManagerWindow.xaml",
+              "RelativeToolTip": "Demoe\\ManagerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-01T19:13:10.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Demoe\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\MainWindow.xaml",
+              "RelativeToolTip": "Demoe\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-01T19:05:42.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\romka\\Desktop\\emae\\Demoe\\Demoe\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Demoe\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\romka\\Desktop\\emae\\Demoe\\Demoe\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\romka\\source\\repos\\ONETAP-iwnl\\demo\\Demoe\\Demoe\\MainWindow.xaml.cs",
               "RelativeToolTip": "Demoe\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAwwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T19:05:41.228Z"
+              "WhenOpened": "2025-06-01T19:05:41.228Z",
+              "EditorCaption": ""
             }
           ]
         },

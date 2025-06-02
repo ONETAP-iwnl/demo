@@ -12,7 +12,8 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
         <Button Name="Logout" Height="40" Width="140" Content="Выйти" FontSize="18" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,10,0" Click="Logout_Click"></Button>
-        <DataGrid  Name="ProductDG" AutoGenerateColumns="False" Grid.Row="1" IsReadOnly="True">
+        <Button Name="AddProduct" Click="AddProduct_Click" Height="40" Width="240" Content="Добавить продукт" FontSize="18" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,200,0"></Button>
+        <DataGrid  Name="ProductDG" AutoGenerateColumns="False" Grid.Row="1" IsReadOnly="True" MouseDoubleClick="ProductDG_MouseDoubleClick">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Название продукта" Binding="{Binding NameProduct}"></DataGridTextColumn>
                 <DataGridTextColumn Header="Описание" Binding="{Binding Description}"></DataGridTextColumn>
