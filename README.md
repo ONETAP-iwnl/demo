@@ -1,6 +1,4 @@
 # demo
-
-SQL 
 CREATE DATABASE DemoExdD;
 GO
 
@@ -155,3 +153,85 @@ INSERT INTO [Product] (NameProduct, [Description], Price, SizeBox, WeightWithBox
 INSERT INTO Tickets (Id_Product, SumTickets, Ammount, Id_Partners, DateOfComplete, Id_StatusTickets) VALUES
 (1, 24000, 20, 1, '2025-06-10', 1),
 (2, 9500, 10, 2, '2025-06-15', 2);
+
+
+private DemoExdDEntities _db;
+private Product _currentProduct;
+public UpdateProductWindow(Product product, DemoExdDEntities db)
+{
+    InitializeComponent();
+    _db = db;
+    _currentProduct = product;
+
+    if (_currentProduct != null)
+    {
+        NameProductTextBox.Text = _currentProduct.NameProduct;
+        DescriptionTextBox.Text = _currentProduct.Description;
+        PriceTextBox.Text = _currentProduct.Price.ToString();
+        SizeBoxTextBox.Text = _currentProduct.SizeBox;
+        WeightWithBoxTextBox.Text = _currentProduct.WeightWithBox;
+        WeightWithoutBoxTextBox.Text = _currentProduct.WeightWithoutBox;
+        NumberStandartTextBox.Text = _currentProduct.NumberStandart;
+        CostTextBox.Text = _currentProduct.Cost.ToString();
+        NumberWorkshopTextBox.Text = _currentProduct.NumberWorkshop.ToString();
+        CountEmployeesTextBox.Text = _currentProduct.CountEmployees.ToString();
+        IdMaterialsTextBox.Text = _currentProduct.Id_Materials.ToString();
+    }
+}
+
+private void SaveButton_Click(object sender, RoutedEventArgs e)
+{
+    _currentProduct.NameProduct = NameProductTextBox.Text;
+    _currentProduct.Description = DescriptionTextBox.Text;
+
+    if (int.TryParse(PriceTextBox.Text, out int price))
+        _currentProduct.Price = price;
+
+    _currentProduct.SizeBox = SizeBoxTextBox.Text;
+    _currentProduct.WeightWithBox = WeightWithBoxTextBox.Text;
+    _currentProduct.WeightWithoutBox = WeightWithoutBoxTextBox.Text;
+    _currentProduct.NumberStandart = NumberStandartTextBox.Text;
+
+    if (int.TryParse(CostTextBox.Text, out int cost))
+        _currentProduct.Cost = cost;
+
+    if (int.TryParse(NumberWorkshopTextBox.Text, out int numberWorkshop))
+        _currentProduct.NumberWorkshop = numberWorkshop;
+
+    if (int.TryParse(CountEmployeesTextBox.Text, out int countEmployees))
+        _currentProduct.CountEmployees = countEmployees;
+
+    if (int.TryParse(IdMaterialsTextBox.Text, out int idMaterials))
+        _currentProduct.Id_Materials = idMaterials;
+
+    _db.SaveChanges();
+
+    MessageBox.Show("Данные успешно обновлены!", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
+    this.Close();
+}
+
+___________________
+MANAGER WINDOW
+____________________
+private void ShowHideDetails(object sender, RoutedEventArgs e)
+{
+
+    Product selectedProduct = (sender as FrameworkElement).DataContext as Product;
+    if (selectedProduct != null)
+    {
+        UpdateProductWindow updateWindow = new UpdateProductWindow(selectedProduct, db);
+        updateWindow.ShowDialog();
+        ProductDG.ItemsSource = DemoExdDEntities.GetContext().Product.ToList();
+    }
+}
+
+private void ProductDG_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+{
+
+    if (ProductDG.SelectedItem is Product selectedProduct)
+    {
+        UpdateProductWindow updateWindow = new UpdateProductWindow(selectedProduct, db);
+        updateWindow.ShowDialog();
+        ProductDG.ItemsSource = db.Product.ToList();
+    }
+}
